@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uncleilia
 - 👀 I’m interested in front-end development!
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on react projects
 - 📫 You can rich me if you want to talk!
 
